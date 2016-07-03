@@ -1,5 +1,5 @@
 # Morsepy
-A  program for learning and practicing morse code.
+A  python script for learning and practicing morse code.
 
 # How to use it
 Enter a text in the textfield and press enter. Morsepy will morse it to you while showing the corresponding signals in the terminal.
